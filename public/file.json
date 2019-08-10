@@ -1,0 +1,1154 @@
+[
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "ADDRESS",
+        "class_precision": 0.511,
+        "class_recall": 0.909,
+        "class_f1_score": 0.655,
+        "class_npv": 0.998
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "ADDRESS",
+        "class_precision": 0.51,
+        "class_recall": 0.909,
+        "class_f1_score": 0.653,
+        "class_npv": 0.998
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "ADDRESS",
+        "class_precision": 0.527,
+        "class_recall": 0.849,
+        "class_f1_score": 0.65,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "ADDRESS",
+        "class_precision": 0.782,
+        "class_recall": 0.873,
+        "class_f1_score": 0.825,
+        "class_npv": 0.997
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "ADDRESS",
+        "class_precision": 0.837,
+        "class_recall": 0.881,
+        "class_f1_score": 0.859,
+        "class_npv": 0.997
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "ADDRESS",
+        "class_precision": 0.803,
+        "class_recall": 0.869,
+        "class_f1_score": 0.834,
+        "class_npv": 0.997
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE",
+        "class_precision": 0.867,
+        "class_recall": 0.934,
+        "class_f1_score": 0.899,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE",
+        "class_precision": 0.867,
+        "class_recall": 0.934,
+        "class_f1_score": 0.899,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE",
+        "class_precision": 0.958,
+        "class_recall": 0.904,
+        "class_f1_score": 0.93,
+        "class_npv": 0.994
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE",
+        "class_precision": 0.956,
+        "class_recall": 0.903,
+        "class_f1_score": 0.929,
+        "class_npv": 0.994
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE",
+        "class_precision": 0.957,
+        "class_recall": 0.902,
+        "class_f1_score": 0.928,
+        "class_npv": 0.994
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE",
+        "class_precision": 0.955,
+        "class_recall": 0.906,
+        "class_f1_score": 0.93,
+        "class_npv": 0.994
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE_OF_BIRTH",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE_OF_BIRTH",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE_OF_BIRTH",
+        "class_precision": 0.364,
+        "class_recall": 0.667,
+        "class_f1_score": 0.471,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE_OF_BIRTH",
+        "class_precision": 0.714,
+        "class_recall": 0.833,
+        "class_f1_score": 0.769,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE_OF_BIRTH",
+        "class_precision": 0.667,
+        "class_recall": 0.667,
+        "class_f1_score": 0.667,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DATE_OF_BIRTH",
+        "class_precision": 0.714,
+        "class_recall": 0.833,
+        "class_f1_score": 0.769,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DEVICE_ID",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DEVICE_ID",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DEVICE_ID",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DEVICE_ID",
+        "class_precision": 1.0,
+        "class_recall": 0.333,
+        "class_f1_score": 0.5,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DEVICE_ID",
+        "class_precision": 0.333,
+        "class_recall": 0.333,
+        "class_f1_score": 0.333,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "DEVICE_ID",
+        "class_precision": 0.333,
+        "class_recall": 0.333,
+        "class_f1_score": 0.333,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EMAIL",
+        "class_precision": 0.877,
+        "class_recall": 1.0,
+        "class_f1_score": 0.935,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EMAIL",
+        "class_precision": 0.877,
+        "class_recall": 1.0,
+        "class_f1_score": 0.935,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EMAIL",
+        "class_precision": 0.962,
+        "class_recall": 1.0,
+        "class_f1_score": 0.98,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EMAIL",
+        "class_precision": 0.909,
+        "class_recall": 1.0,
+        "class_f1_score": 0.952,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EMAIL",
+        "class_precision": 0.877,
+        "class_recall": 1.0,
+        "class_f1_score": 0.935,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EMAIL",
+        "class_precision": 0.862,
+        "class_recall": 1.0,
+        "class_f1_score": 0.926,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EU_PASSPORT",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EU_PASSPORT",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EU_PASSPORT",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EU_PASSPORT",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EU_PASSPORT",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "EU_PASSPORT",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GENDER",
+        "class_precision": 0.667,
+        "class_recall": 0.833,
+        "class_f1_score": 0.741,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GENDER",
+        "class_precision": 0.667,
+        "class_recall": 0.833,
+        "class_f1_score": 0.741,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GENDER",
+        "class_precision": 0.314,
+        "class_recall": 0.917,
+        "class_f1_score": 0.468,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GENDER",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GENDER",
+        "class_precision": 0.75,
+        "class_recall": 1.0,
+        "class_f1_score": 0.857,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GENDER",
+        "class_precision": 0.75,
+        "class_recall": 1.0,
+        "class_f1_score": 0.857,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GEOLOCATION",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GEOLOCATION",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GEOLOCATION",
+        "class_precision": 0.003,
+        "class_recall": 0.2,
+        "class_f1_score": 0.005,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GEOLOCATION",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GEOLOCATION",
+        "class_precision": 0.222,
+        "class_recall": 0.4,
+        "class_f1_score": 0.286,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "GEOLOCATION",
+        "class_precision": 0.009,
+        "class_recall": 0.8,
+        "class_f1_score": 0.017,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "IP_ADDRESS",
+        "class_precision": 1.0,
+        "class_recall": 0.926,
+        "class_f1_score": 0.962,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "IP_ADDRESS",
+        "class_precision": 1.0,
+        "class_recall": 0.926,
+        "class_f1_score": 0.962,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "IP_ADDRESS",
+        "class_precision": 1.0,
+        "class_recall": 0.926,
+        "class_f1_score": 0.962,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "IP_ADDRESS",
+        "class_precision": 1.0,
+        "class_recall": 0.963,
+        "class_f1_score": 0.981,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "IP_ADDRESS",
+        "class_precision": 1.0,
+        "class_recall": 0.963,
+        "class_f1_score": 0.981,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "IP_ADDRESS",
+        "class_precision": 0.758,
+        "class_recall": 0.926,
+        "class_f1_score": 0.833,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "MAC_ADDRESS",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "MAC_ADDRESS",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "MAC_ADDRESS",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "MAC_ADDRESS",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "MAC_ADDRESS",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "MAC_ADDRESS",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NAME",
+        "class_precision": 0.184,
+        "class_recall": 0.702,
+        "class_f1_score": 0.292,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NAME",
+        "class_precision": 0.185,
+        "class_recall": 0.71,
+        "class_f1_score": 0.294,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NAME",
+        "class_precision": 0.657,
+        "class_recall": 0.702,
+        "class_f1_score": 0.678,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NAME",
+        "class_precision": 0.877,
+        "class_recall": 0.718,
+        "class_f1_score": 0.789,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NAME",
+        "class_precision": 0.839,
+        "class_recall": 0.754,
+        "class_f1_score": 0.794,
+        "class_npv": 0.997
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NAME",
+        "class_precision": 0.834,
+        "class_recall": 0.75,
+        "class_f1_score": 0.79,
+        "class_npv": 0.997
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NONE",
+        "class_precision": 0.991,
+        "class_recall": 0.883,
+        "class_f1_score": 0.934,
+        "class_npv": 0.645
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NONE",
+        "class_precision": 0.991,
+        "class_recall": 0.884,
+        "class_f1_score": 0.934,
+        "class_npv": 0.645
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NONE",
+        "class_precision": 0.952,
+        "class_recall": 0.94,
+        "class_f1_score": 0.946,
+        "class_npv": 0.744
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NONE",
+        "class_precision": 0.986,
+        "class_recall": 0.983,
+        "class_f1_score": 0.985,
+        "class_npv": 0.926
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NONE",
+        "class_precision": 0.988,
+        "class_recall": 0.984,
+        "class_f1_score": 0.986,
+        "class_npv": 0.928
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "NONE",
+        "class_precision": 0.987,
+        "class_recall": 0.955,
+        "class_f1_score": 0.971,
+        "class_npv": 0.821
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PHONE",
+        "class_precision": 0.129,
+        "class_recall": 0.902,
+        "class_f1_score": 0.226,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PHONE",
+        "class_precision": 0.129,
+        "class_recall": 0.902,
+        "class_f1_score": 0.226,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PHONE",
+        "class_precision": 0.441,
+        "class_recall": 0.634,
+        "class_f1_score": 0.52,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PHONE",
+        "class_precision": 0.512,
+        "class_recall": 0.512,
+        "class_f1_score": 0.512,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PHONE",
+        "class_precision": 0.54,
+        "class_recall": 0.659,
+        "class_f1_score": 0.593,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PHONE",
+        "class_precision": 0.595,
+        "class_recall": 0.61,
+        "class_f1_score": 0.602,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "POLITICAL_AFFILIATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "POLITICAL_AFFILIATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "POLITICAL_AFFILIATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "POLITICAL_AFFILIATION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "POLITICAL_AFFILIATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "POLITICAL_AFFILIATION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PP_ACCT_ID",
+        "class_precision": 0.967,
+        "class_recall": 0.96,
+        "class_f1_score": 0.963,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PP_ACCT_ID",
+        "class_precision": 0.967,
+        "class_recall": 0.96,
+        "class_f1_score": 0.963,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PP_ACCT_ID",
+        "class_precision": 0.868,
+        "class_recall": 0.055,
+        "class_f1_score": 0.103,
+        "class_npv": 0.972
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PP_ACCT_ID",
+        "class_precision": 0.968,
+        "class_recall": 0.967,
+        "class_f1_score": 0.968,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PP_ACCT_ID",
+        "class_precision": 0.965,
+        "class_recall": 0.967,
+        "class_f1_score": 0.966,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "PP_ACCT_ID",
+        "class_precision": 0.975,
+        "class_recall": 0.954,
+        "class_f1_score": 0.964,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RACE_ETHNICITY",
+        "class_precision": 0.5,
+        "class_recall": 0.333,
+        "class_f1_score": 0.4,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RACE_ETHNICITY",
+        "class_precision": 0.5,
+        "class_recall": 0.333,
+        "class_f1_score": 0.4,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RACE_ETHNICITY",
+        "class_precision": -1.0,
+        "class_recall": 0.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RACE_ETHNICITY",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RACE_ETHNICITY",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RACE_ETHNICITY",
+        "class_precision": 0.0,
+        "class_recall": 0.0,
+        "class_f1_score": 0.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RELIGION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RELIGION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RELIGION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RELIGION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RELIGION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "RELIGION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SEXUAL_ORIENTATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SEXUAL_ORIENTATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SEXUAL_ORIENTATION",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SEXUAL_ORIENTATION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SEXUAL_ORIENTATION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SEXUAL_ORIENTATION",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SOCIAL_MEDIA_NAME",
+        "class_precision": 0.857,
+        "class_recall": 1.0,
+        "class_f1_score": 0.923,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SOCIAL_MEDIA_NAME",
+        "class_precision": 0.857,
+        "class_recall": 1.0,
+        "class_f1_score": 0.923,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SOCIAL_MEDIA_NAME",
+        "class_precision": 1.0,
+        "class_recall": 0.5,
+        "class_f1_score": 0.667,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SOCIAL_MEDIA_NAME",
+        "class_precision": -1.0,
+        "class_recall": 0.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SOCIAL_MEDIA_NAME",
+        "class_precision": -1.0,
+        "class_recall": 0.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SOCIAL_MEDIA_NAME",
+        "class_precision": -1.0,
+        "class_recall": 0.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SSN_AND_TIN",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SSN_AND_TIN",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SSN_AND_TIN",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SSN_AND_TIN",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SSN_AND_TIN",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "SSN_AND_TIN",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TIMESTAMP",
+        "class_precision": 0.881,
+        "class_recall": 0.923,
+        "class_f1_score": 0.902,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TIMESTAMP",
+        "class_precision": 0.881,
+        "class_recall": 0.923,
+        "class_f1_score": 0.902,
+        "class_npv": 0.996
+    },
+    {
+        "version_number": "3.0.1",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TIMESTAMP",
+        "class_precision": 0.872,
+        "class_recall": 0.989,
+        "class_f1_score": 0.927,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.6.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TIMESTAMP",
+        "class_precision": 0.876,
+        "class_recall": 0.989,
+        "class_f1_score": 0.929,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "3.7.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TIMESTAMP",
+        "class_precision": 0.869,
+        "class_recall": 0.991,
+        "class_f1_score": 0.926,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "3.8.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TIMESTAMP",
+        "class_precision": 0.863,
+        "class_recall": 0.988,
+        "class_f1_score": 0.921,
+        "class_npv": 0.999
+    },
+    {
+        "version_number": "2.5.0",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TRADE_UNION_MEMBERSHIP",
+        "class_precision": 0.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    },
+    {
+        "version_number": "2.5.2",
+        "dataset_name": "structure_p4r3_all_fixed",
+        "classifier_class": "TRADE_UNION_MEMBERSHIP",
+        "class_precision": -1.0,
+        "class_recall": -1.0,
+        "class_f1_score": -1.0,
+        "class_npv": 1.0
+    }
+]
