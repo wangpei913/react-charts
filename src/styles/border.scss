@@ -1,0 +1,74 @@
+.borderItemRB {
+    position: absolute;
+    background: none;
+    transition: all .5s ease-in-out;
+    bottom: 0;
+    right: 0;
+    border-right: 1px solid #51d0d5;
+    border-bottom: 1px solid #51d0d5;
+    width: 5px;
+    height: 5px;
+}
+
+.borderItemTF {
+    position: absolute;
+    background: none;
+    transition: all .5s ease-in-out;
+    top: 0;
+    left: 0;
+    border-left: 1px solid #51d0d5;
+    border-top: 1px solid #51d0d5;
+    width: 5px;
+    height: 5px;
+}
+
+.borderItemLT {
+    position: absolute;
+    background: none;
+    transition: all .5s ease-in-out;
+    left: 0;
+    bottom: 0;
+    border-left: 1px solid #51d0d5;
+    border-bottom: 1px solid #51d0d5;
+    width: 5px;
+    height: 5px;
+}
+
+.borderItemTR {
+    position: absolute;
+    background: none;
+    transition: all .5s ease-in-out;
+    top: 0;
+    right: 0;
+    border-top: 1px solid #51d0d5;
+    border-right: 1px solid #51d0d5;
+    width: 5px;
+    height: 5px;
+}
+
+// -----------------
+.borderBox {
+    width: calc('100% - 10px');
+    height: calc('100% - 10px');
+    margin: 5px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+// --------------------
+.carouselContent {
+    width: 100%;
+    height: 100%;
+
+    .ant-carousel {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        .slick-slide {
+            width: 100vw;
+            height: 100vh;
+            background: #364d79;
+            overflow: hidden;
+        }
+    }
+}

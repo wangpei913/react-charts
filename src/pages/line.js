@@ -6,10 +6,10 @@ import {
     editDefaultValueModule
 } from '../redux/actions-creators';
 import { Row, Col, Select } from 'antd';
-import './index.scss';
+import '../styles/index.scss';
 
 const { Option } = Select;
-class ChartsPage extends React.PureComponent {
+class Line extends React.PureComponent {
 
     state = {
         chartsData: [],
@@ -139,4 +139,4 @@ export default connect(state => {
         const action = editDefaultValueModule(data)
         dispatch(action)
     }
-}))(ChartsPage);
+}))(Line);

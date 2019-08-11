@@ -1,0 +1,61 @@
+@import '~antd/dist/antd.css';
+@import '../src/assets/iconfont/iconfont.css';
+.appContent {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  box-sizing: border-box;
+  .markbox{
+    width: 80vw;
+    position: absolute;
+    top: 0;
+    left: 10%;
+    color: #fff;
+    .upCol{
+      width: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      transition: height 2s;
+      overflow: hidden;
+      border-radius: 3px;
+    }
+    .downCol{
+      display: flex;
+      width: 100%;
+      height: 7vh;
+      justify-content: center;
+      align-items: center;
+      .arrowContent {
+        display: block;
+        width: 50px;
+        height: 50px;
+        padding: 10px;
+        cursor: pointer;
+        animation: animate-bounce-down 1s infinite;
+        animation-fill-mode: both;
+        img {
+          max-width: 100%;
+          min-height: 100%;
+        }
+    
+        @keyframes animate-bounce-down {
+          25% {
+            transform: translateY(-3px);
+          }
+          50% {
+            transform: translateY(0);
+          }
+          75% {
+            transform: translateY(3px);
+          }
+          100% {
+            transform: translateY(0);
+          }
+        }
+        .animate-bounce-down {
+          -webkit-animation: bounce-down 1s linear infinite;
+          animation: bounce-down 1s linear infinite;
+        }
+      }
+    }
+  }
+}
