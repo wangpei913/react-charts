@@ -1,7 +1,7 @@
 [
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "ADDRESS",
         "class_precision": 0.511,
         "class_recall": 0.909,
@@ -10,7 +10,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "ADDRESS",
         "class_precision": 0.51,
         "class_recall": 0.909,
@@ -19,7 +19,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "ADDRESS",
         "class_precision": 0.527,
         "class_recall": 0.849,
@@ -28,7 +28,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "ADDRESS",
         "class_precision": 0.782,
         "class_recall": 0.873,
@@ -37,7 +37,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "ADDRESS",
         "class_precision": 0.837,
         "class_recall": 0.881,
@@ -46,7 +46,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "ADDRESS",
         "class_precision": 0.803,
         "class_recall": 0.869,
@@ -55,7 +55,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE",
         "class_precision": 0.867,
         "class_recall": 0.934,
@@ -64,7 +64,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE",
         "class_precision": 0.867,
         "class_recall": 0.934,
@@ -73,7 +73,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE",
         "class_precision": 0.958,
         "class_recall": 0.904,
@@ -82,7 +82,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE",
         "class_precision": 0.956,
         "class_recall": 0.903,
@@ -91,7 +91,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE",
         "class_precision": 0.957,
         "class_recall": 0.902,
@@ -100,7 +100,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE",
         "class_precision": 0.955,
         "class_recall": 0.906,
@@ -109,7 +109,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE_OF_BIRTH",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -118,7 +118,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE_OF_BIRTH",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -127,7 +127,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE_OF_BIRTH",
         "class_precision": 0.364,
         "class_recall": 0.667,
@@ -136,7 +136,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE_OF_BIRTH",
         "class_precision": 0.714,
         "class_recall": 0.833,
@@ -145,7 +145,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE_OF_BIRTH",
         "class_precision": 0.667,
         "class_recall": 0.667,
@@ -154,7 +154,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DATE_OF_BIRTH",
         "class_precision": 0.714,
         "class_recall": 0.833,
@@ -163,7 +163,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DEVICE_ID",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -172,7 +172,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DEVICE_ID",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -181,7 +181,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DEVICE_ID",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -190,7 +190,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DEVICE_ID",
         "class_precision": 1.0,
         "class_recall": 0.333,
@@ -199,7 +199,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DEVICE_ID",
         "class_precision": 0.333,
         "class_recall": 0.333,
@@ -208,7 +208,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "DEVICE_ID",
         "class_precision": 0.333,
         "class_recall": 0.333,
@@ -217,7 +217,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EMAIL",
         "class_precision": 0.877,
         "class_recall": 1.0,
@@ -226,7 +226,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EMAIL",
         "class_precision": 0.877,
         "class_recall": 1.0,
@@ -235,7 +235,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EMAIL",
         "class_precision": 0.962,
         "class_recall": 1.0,
@@ -244,7 +244,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EMAIL",
         "class_precision": 0.909,
         "class_recall": 1.0,
@@ -253,7 +253,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EMAIL",
         "class_precision": 0.877,
         "class_recall": 1.0,
@@ -262,7 +262,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EMAIL",
         "class_precision": 0.862,
         "class_recall": 1.0,
@@ -271,7 +271,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EU_PASSPORT",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -280,7 +280,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EU_PASSPORT",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -289,7 +289,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EU_PASSPORT",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -298,7 +298,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EU_PASSPORT",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -307,7 +307,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EU_PASSPORT",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -316,7 +316,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "EU_PASSPORT",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -325,7 +325,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GENDER",
         "class_precision": 0.667,
         "class_recall": 0.833,
@@ -334,7 +334,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GENDER",
         "class_precision": 0.667,
         "class_recall": 0.833,
@@ -343,7 +343,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GENDER",
         "class_precision": 0.314,
         "class_recall": 0.917,
@@ -352,7 +352,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GENDER",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -361,7 +361,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GENDER",
         "class_precision": 0.75,
         "class_recall": 1.0,
@@ -370,7 +370,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GENDER",
         "class_precision": 0.75,
         "class_recall": 1.0,
@@ -379,7 +379,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GEOLOCATION",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -388,7 +388,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GEOLOCATION",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -397,7 +397,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GEOLOCATION",
         "class_precision": 0.003,
         "class_recall": 0.2,
@@ -406,7 +406,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GEOLOCATION",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -415,7 +415,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GEOLOCATION",
         "class_precision": 0.222,
         "class_recall": 0.4,
@@ -424,7 +424,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "GEOLOCATION",
         "class_precision": 0.009,
         "class_recall": 0.8,
@@ -433,7 +433,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "IP_ADDRESS",
         "class_precision": 1.0,
         "class_recall": 0.926,
@@ -442,7 +442,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "IP_ADDRESS",
         "class_precision": 1.0,
         "class_recall": 0.926,
@@ -451,7 +451,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "IP_ADDRESS",
         "class_precision": 1.0,
         "class_recall": 0.926,
@@ -460,7 +460,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "IP_ADDRESS",
         "class_precision": 1.0,
         "class_recall": 0.963,
@@ -469,7 +469,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "IP_ADDRESS",
         "class_precision": 1.0,
         "class_recall": 0.963,
@@ -478,7 +478,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "IP_ADDRESS",
         "class_precision": 0.758,
         "class_recall": 0.926,
@@ -487,7 +487,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "MAC_ADDRESS",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -496,7 +496,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "MAC_ADDRESS",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -505,7 +505,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "MAC_ADDRESS",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -514,7 +514,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "MAC_ADDRESS",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -523,7 +523,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "MAC_ADDRESS",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -532,7 +532,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "MAC_ADDRESS",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -541,7 +541,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NAME",
         "class_precision": 0.184,
         "class_recall": 0.702,
@@ -550,7 +550,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NAME",
         "class_precision": 0.185,
         "class_recall": 0.71,
@@ -559,7 +559,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NAME",
         "class_precision": 0.657,
         "class_recall": 0.702,
@@ -568,7 +568,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NAME",
         "class_precision": 0.877,
         "class_recall": 0.718,
@@ -577,7 +577,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NAME",
         "class_precision": 0.839,
         "class_recall": 0.754,
@@ -586,7 +586,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NAME",
         "class_precision": 0.834,
         "class_recall": 0.75,
@@ -595,7 +595,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NONE",
         "class_precision": 0.991,
         "class_recall": 0.883,
@@ -604,7 +604,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NONE",
         "class_precision": 0.991,
         "class_recall": 0.884,
@@ -613,7 +613,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NONE",
         "class_precision": 0.952,
         "class_recall": 0.94,
@@ -622,7 +622,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NONE",
         "class_precision": 0.986,
         "class_recall": 0.983,
@@ -631,7 +631,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NONE",
         "class_precision": 0.988,
         "class_recall": 0.984,
@@ -640,7 +640,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "NONE",
         "class_precision": 0.987,
         "class_recall": 0.955,
@@ -649,7 +649,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PHONE",
         "class_precision": 0.129,
         "class_recall": 0.902,
@@ -658,7 +658,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PHONE",
         "class_precision": 0.129,
         "class_recall": 0.902,
@@ -667,7 +667,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PHONE",
         "class_precision": 0.441,
         "class_recall": 0.634,
@@ -676,7 +676,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PHONE",
         "class_precision": 0.512,
         "class_recall": 0.512,
@@ -685,7 +685,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PHONE",
         "class_precision": 0.54,
         "class_recall": 0.659,
@@ -694,7 +694,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PHONE",
         "class_precision": 0.595,
         "class_recall": 0.61,
@@ -703,7 +703,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "POLITICAL_AFFILIATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -712,7 +712,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "POLITICAL_AFFILIATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -721,7 +721,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "POLITICAL_AFFILIATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -730,7 +730,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "POLITICAL_AFFILIATION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -739,7 +739,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "POLITICAL_AFFILIATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -748,7 +748,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "POLITICAL_AFFILIATION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -757,7 +757,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PP_ACCT_ID",
         "class_precision": 0.967,
         "class_recall": 0.96,
@@ -766,7 +766,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PP_ACCT_ID",
         "class_precision": 0.967,
         "class_recall": 0.96,
@@ -775,7 +775,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PP_ACCT_ID",
         "class_precision": 0.868,
         "class_recall": 0.055,
@@ -784,7 +784,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PP_ACCT_ID",
         "class_precision": 0.968,
         "class_recall": 0.967,
@@ -793,7 +793,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PP_ACCT_ID",
         "class_precision": 0.965,
         "class_recall": 0.967,
@@ -802,7 +802,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "PP_ACCT_ID",
         "class_precision": 0.975,
         "class_recall": 0.954,
@@ -811,7 +811,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RACE_ETHNICITY",
         "class_precision": 0.5,
         "class_recall": 0.333,
@@ -820,7 +820,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RACE_ETHNICITY",
         "class_precision": 0.5,
         "class_recall": 0.333,
@@ -829,7 +829,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RACE_ETHNICITY",
         "class_precision": -1.0,
         "class_recall": 0.0,
@@ -838,7 +838,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RACE_ETHNICITY",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -847,7 +847,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RACE_ETHNICITY",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -856,7 +856,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RACE_ETHNICITY",
         "class_precision": 0.0,
         "class_recall": 0.0,
@@ -865,7 +865,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RELIGION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -874,7 +874,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RELIGION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -883,7 +883,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RELIGION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -892,7 +892,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RELIGION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -901,7 +901,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RELIGION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -910,7 +910,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "RELIGION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -919,7 +919,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SEXUAL_ORIENTATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -928,7 +928,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SEXUAL_ORIENTATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -937,7 +937,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SEXUAL_ORIENTATION",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -946,7 +946,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SEXUAL_ORIENTATION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -955,7 +955,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SEXUAL_ORIENTATION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -964,7 +964,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SEXUAL_ORIENTATION",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -973,7 +973,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SOCIAL_MEDIA_NAME",
         "class_precision": 0.857,
         "class_recall": 1.0,
@@ -982,7 +982,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SOCIAL_MEDIA_NAME",
         "class_precision": 0.857,
         "class_recall": 1.0,
@@ -991,7 +991,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SOCIAL_MEDIA_NAME",
         "class_precision": 1.0,
         "class_recall": 0.5,
@@ -1000,7 +1000,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SOCIAL_MEDIA_NAME",
         "class_precision": -1.0,
         "class_recall": 0.0,
@@ -1009,7 +1009,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SOCIAL_MEDIA_NAME",
         "class_precision": -1.0,
         "class_recall": 0.0,
@@ -1018,7 +1018,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SOCIAL_MEDIA_NAME",
         "class_precision": -1.0,
         "class_recall": 0.0,
@@ -1027,7 +1027,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SSN_AND_TIN",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -1036,7 +1036,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SSN_AND_TIN",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -1045,7 +1045,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SSN_AND_TIN",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -1054,7 +1054,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SSN_AND_TIN",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -1063,7 +1063,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SSN_AND_TIN",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -1072,7 +1072,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "SSN_AND_TIN",
         "class_precision": -1.0,
         "class_recall": -1.0,
@@ -1081,7 +1081,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TIMESTAMP",
         "class_precision": 0.881,
         "class_recall": 0.923,
@@ -1090,7 +1090,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TIMESTAMP",
         "class_precision": 0.881,
         "class_recall": 0.923,
@@ -1099,7 +1099,7 @@
     },
     {
         "version_number": "3.0.1",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TIMESTAMP",
         "class_precision": 0.872,
         "class_recall": 0.989,
@@ -1108,7 +1108,7 @@
     },
     {
         "version_number": "3.6.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TIMESTAMP",
         "class_precision": 0.876,
         "class_recall": 0.989,
@@ -1117,7 +1117,7 @@
     },
     {
         "version_number": "3.7.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TIMESTAMP",
         "class_precision": 0.869,
         "class_recall": 0.991,
@@ -1126,7 +1126,7 @@
     },
     {
         "version_number": "3.8.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TIMESTAMP",
         "class_precision": 0.863,
         "class_recall": 0.988,
@@ -1135,7 +1135,7 @@
     },
     {
         "version_number": "2.5.0",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TRADE_UNION_MEMBERSHIP",
         "class_precision": 0.0,
         "class_recall": -1.0,
@@ -1144,7 +1144,7 @@
     },
     {
         "version_number": "2.5.2",
-        "dataset_name": "structure_p4r3_all_fixed",
+        "dataset_name": "structure",
         "classifier_class": "TRADE_UNION_MEMBERSHIP",
         "class_precision": -1.0,
         "class_recall": -1.0,

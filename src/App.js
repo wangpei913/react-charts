@@ -1,6 +1,7 @@
 import React from 'react';
 import { withRouter, Switch, Route, Redirect } from 'react-router-dom'
-import {  Row, Col } from 'antd'
+import {  Row, Col, Spin } from 'antd';
+import HomePage from '../src/pages/home'
 import LinePage from '../src/pages/line';
 import BarPage from '../src/pages/bar';
 import ScatterPage from '../src/pages/scatter';
@@ -18,21 +19,46 @@ import SankeyPage from '../src/pages/sankey';
 import FunnelPage from '../src/pages/funnel';
 import GaugePage from '../src/pages/gauge';
 import NavMenu from './component/menu';
-import './App.scss';
+import './styles/app.scss';
 import arrowDown from '../src/assets/images/arrow-down.svg';
 import arrowUp from '../src/assets/images/arrow-up.svg'
 
  class App extends React.PureComponent {
   state = {
-    isShowMark: false
+    isShowMark: false,
+    loading: true
   }
+  timer = null;
 
   componentDidMount () {
     window.addEventListener('click', this.closeMark, true);
+    this.loadingShow();
+  }
+
+  componentWillReceiveProps(nextProps) {
+    //当路由切换时
+    if (this.props.location !== nextProps.location) {
+      window.scrollTo(0, 0);
+      this.loadingShow();
+    }
   }
 
   componentWillUnmount(){
     window.removeEventListener('click');
+  }
+
+  loadingShow() {
+    this.setState(
+      {
+        loading: true
+      },
+      () => {
+        clearTimeout(this.timer);
+        this.timer = setTimeout(() => {
+          this.setState({ loading: false });
+        }, 1000);
+      }
+    );
   }
 
   clickArrow = (e) => {
@@ -61,7 +87,9 @@ import arrowUp from '../src/assets/images/arrow-up.svg'
     return (
       <div className="appContent">
         <div>
+        <Spin tip="Loading..." spinning={this.state.loading}>
           <Switch>
+              <Route path="/home" component={HomePage}></Route>
               <Route path="/line" component={LinePage}></Route>
               <Route path="/bar" component={BarPage}></Route>
               <Route path="/scatter" component={ScatterPage}></Route>
@@ -80,6 +108,7 @@ import arrowUp from '../src/assets/images/arrow-up.svg'
               <Route path="/gauge" component={GaugePage}></Route>
               <Redirect to="/line"></Redirect>
           </Switch>
+          </Spin>
         </div>
         <Row className="markbox">
           <Col className="upCol" style={isShowMark ? clickStyle : defStyle}>

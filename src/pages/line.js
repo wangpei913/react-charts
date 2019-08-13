@@ -5,7 +5,7 @@ import {
     setChartsData,
     editDefaultValueModule
 } from '../redux/actions-creators';
-import { Row, Col, Select } from 'antd';
+import { Row, Select } from 'antd';
 import '../styles/index.scss';
 
 const { Option } = Select;
@@ -28,24 +28,50 @@ class Line extends React.PureComponent {
                 arr.push(item)
             }
         })
+        const obj = {
+            class_f1_score: [],
+            class_npv: [],
+            class_precision: [],
+            class_recall: []
+        }
+        totalData.forEach(item => {
+            if (item.classifier_class === e) {
+                obj.class_f1_score.push(item.class_f1_score);
+                obj.class_npv.push(item.class_npv);
+                obj.class_precision.push(item.class_precision);
+                obj.class_recall.push(item.class_recall)
+            }
+        })
         this.props.editDefaultVale({
             totalData: totalData,
             classOption: classOption,
             defClass: e,
-            classData: arr
+            classData: arr,
+            linesData: obj
         })
     }
 
     render () {
-        const { classOption, defClass, classData } = this.props;
-        const color = ['#DC143C', '#EE82EE', '#0000FF', '#00BFFF', '#00FFFF', '#00FF7F'];
+        const { classOption, defClass, classData, linesData } = this.props;
         const option = {
+            color: ['#DC143C', '#EE82EE', '#0000FF', '#00BFFF', '#00FFFF', '#00FF7F'],
             tooltip: {
                 trigger: 'axis'
+            },
+            legend: {
+                data: ['class_f1_score', 'class_npv', 'class_precision', 'class_recall'],
+                left: 'center',
+                bottom: 'bottom',
+                textStyle: {
+                    color: '#fff'
+                }
             },
             xAxis: [{
                 type: 'category',
                 data: classData ? classData.map(v => v.version_number) : [],
+                axisLabel: {
+                    color: '#fff'
+                },
                 axisLine: {
                     lineStyle: {
                         color: "#999"
@@ -61,6 +87,9 @@ class Line extends React.PureComponent {
                         color: '#DDD'
                     }
                 },
+                axisLabel: {
+                    color: '#fff'
+                },
                 axisLine: {
                     show: false,
                     lineStyle: {
@@ -74,61 +103,49 @@ class Line extends React.PureComponent {
                     show: false
                 }
             }],
-            series: classData ? classData.map((v, i) => {
+            series: linesData ? Object.keys(linesData).map((v, i) => {
                 return {
-                    name: v.dataset_name,
+                    name: v,
                     type: 'line',
-                    data: v.classifier_data,
-                    smooth: true,
-                    itemStyle: {
-                        normal: {
-                            lineStyle: {
-                                color: color[i]
-                            }
-                        }
-                    }
+                    data: linesData[v],
+                    smooth: true
                 }
             }) : []
         };
         return (
             <div className="chartsContainer">
-                <Row gutter={20}>
-                    <Col span={6}>
-                        <Select value={defClass} style={{ width: "100%" }} onChange={this.changeClassOption}>
+                <div style={{textAlign: 'right', color: '#fff', lineHeight: '40px'}}>
+                    <span style={{fontSize: 16, fontWeight: 500, padding: '0 10px'}}>{`classifier_class: ${defClass}`}</span>
+                    <span style={{fontSize: 16, fontWeight: 500}}>dataset_name</span>
+                    <span style={{display: 'block', float: 'right', width: '250px', padding: '0 10px'}}>
+                        <Select style={{width: '100%', zIndex: 1}} value={defClass} onChange={this.changeClassOption}>
                             {
                                 classOption && classOption.length > 0 ? classOption.map(item => {
                                     return <Option key={item} value={item}>{item}</Option>
                                 }) : null
                             }
                         </Select>
-                    </Col>
-                    {/* <Col span={6}>
-                        <Select style={{ width: "100%" }}>
-                            {
-                                nameOption && nameOption.length > 0 ? nameOption.map(item => {
-                                    return <Option key={item} value={item}>{item}</Option>
-                                }) : null
-                            }
-                        </Select>
-                    </Col> */}
-                </Row>
+                    </span>
+                </div>
                 <Row className='echartsContainer'>
                     <ReactEcharts
                         option={option}
-                        style={{height: '100%', width: '100%'}}
+                        style={{height: '75%', width: '75%', margin: '0 auto'}}
                     />
                 </Row>
+                <div className="datacountContainer">{`显示数据 ${linesData ? Object.keys(linesData).length : 0} 条`}</div>
             </div>
         )
     }
 }
 export default connect(state => {
-    const { classOption, defClass, classData, totalData } = state.saveChartsData;
+    const { classOption, defClass, classData, totalData, linesData } = state.saveChartsData;
     return {
         classOption,
         defClass,
         classData,
-        totalData
+        totalData,
+        linesData
     }
 }, dispatch => ({
     getChartsData () {

@@ -1,18 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import store from './redux/store';
 import { HashRouter } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import { AppContainer } from 'react-hot-loader'; 
 import * as serviceWorker from './serviceWorker';
+import './styles/index.css';
 
 ReactDOM.render(
     <HashRouter>
         <Provider store={store}>
             <AppContainer>
-                <App ></App>
+                <App></App>
             </AppContainer>
         </Provider>
     </HashRouter>,
